@@ -1,2 +1,2 @@
-# 1-2tp
+# 1-2T
 Nodo. Cohorte 3. Módulo 3. Grupo 2. Script 1. Tp 2.
